@@ -19,6 +19,6 @@ most files require you to put a bot token and manually tweak where the bot sends
 - **icons** - Discord/bot/game icons made by me
 - **othergraphics** - other graphics/images which i forgot the use was for
 
-# if you need any guidance to setup any bot dm me on discord; upstep
+# if you need any guidance to setup any bot or want other files dm me on discord; upstep
 
 love yall
